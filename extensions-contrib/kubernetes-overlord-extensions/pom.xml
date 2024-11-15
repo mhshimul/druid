@@ -121,7 +121,7 @@
     <dependency>
       <groupId>io.fabric8</groupId>
       <artifactId>kubernetes-model-batch</artifactId>
-      <version>6.7.2</version>
+      <version>6.13.4</version>
     </dependency>
     <dependency>
       <groupId>io.fabric8</groupId>
